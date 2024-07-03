@@ -9,6 +9,10 @@
 
 ![Minos](http://ppoffice.github.io/hexo-theme-minos/gallery/preview.png "Minos Preview")
 
+fixed bugs:
+  - 引用hexo库的路径问题；
+  - 01_check.js中的require hexo-log的版本问题；
+
 ### :gift: Features
 
 **Extensive Plugin Support**
